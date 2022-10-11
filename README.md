@@ -1,2 +1,3 @@
 # curso-react-para-iniciantes
-Created with CodeSandbox
+
+Link para o projeto [aqui](https://16bw8k.csb.app/)
